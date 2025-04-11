@@ -33,6 +33,6 @@ This project involved analyzing data for a client, Social Buzz, to help them man
 • Charts Used: 
    1. Pie Chart
    2. Bar Chart
-   3. Presentation: 
+   3. Presentation: https://github.com/anurag2111singh/Anudip-Customer-Segmentation-/blob/main/Powerpoint%20Presentation.pptx
 ## Task 4: Present to the Client
 • Objective: Deliver insights from the analysis through the prepared presentation.
