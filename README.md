@@ -28,7 +28,7 @@ This project involved analyzing data for a client, Social Buzz, to help them man
    2. Reactions
    3. Content
 
-• Data Model (Merged Dataset): 
+• Data Model (Merged Dataset): https://github.com/anurag2111singh/Anudip-Customer-Segmentation-/blob/main/Clean%20Dataset.xlsx
 ## Task 3: Data Visualization and Storytelling
 • Charts Used: 
    1. Pie Chart
